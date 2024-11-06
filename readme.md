@@ -1,1 +1,1 @@
-Este projeto é um formulário estilizado e responsivo usando somente html e css.
+Este projeto é um formulário de contato estilizado e responsivo usando somente html e css.
